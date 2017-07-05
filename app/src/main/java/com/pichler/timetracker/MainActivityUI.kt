@@ -1,4 +1,4 @@
-package com.pichler.nfctimetracker
+package com.pichler.timetracker
 
 import android.view.View
 import org.jetbrains.anko.*

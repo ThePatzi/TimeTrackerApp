@@ -1,4 +1,4 @@
-package com.pichler.nfctimetracker;
+package com.pichler.timetracker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     // Context of the app under test.
     Context appContext = InstrumentationRegistry.getTargetContext();
 
-    assertEquals("com.pichler.nfctimetracker", appContext.getPackageName());
+    assertEquals("com.pichler.timetracker", appContext.getPackageName());
   }
 }
