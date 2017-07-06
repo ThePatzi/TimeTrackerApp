@@ -7,4 +7,6 @@ sealed class TimeTrackingActions {
   object StartTracking : TimeTrackingActions()
 
   object StopTracking : TimeTrackingActions()
+
+  object ResetTracking : TimeTrackingActions()
 }

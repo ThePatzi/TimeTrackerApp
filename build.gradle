@@ -6,6 +6,7 @@ buildscript {
     ext.functionale_version = '1.1'
     ext.rxkotlin_version = '2.1.0'
     ext.bansa_version = '1.0.0-beta'
+    ext.kodein_version = '4.0.0'
 
     repositories {
         jcenter()
